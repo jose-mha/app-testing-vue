@@ -1,7 +1,9 @@
-# vuedex
+# Vue
 
+## Testing con Vue.js
 
-Este proyecto es par tener un mejor entendimiento de lo qu se tratan las pruebas en una aplicación de Vue
+vuedex
+- Este proyecto es para tener un mejor entendimiento de lo que se tratan las pruebas en una aplicación de Vue
 
 
 ## Project setup
